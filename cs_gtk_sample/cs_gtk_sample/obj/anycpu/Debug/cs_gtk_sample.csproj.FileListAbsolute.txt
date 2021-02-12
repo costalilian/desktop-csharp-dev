@@ -1,0 +1,7 @@
+/Users/lilian/Documents/desktop-csharp-dev/cs_gtk_sample/cs_gtk_sample/bin/Debug/cs_gtk_sample.exe
+/Users/lilian/Documents/desktop-csharp-dev/cs_gtk_sample/cs_gtk_sample/bin/Debug/cs_gtk_sample.pdb
+/Users/lilian/Documents/desktop-csharp-dev/cs_gtk_sample/cs_gtk_sample/obj/anycpu/Debug/cs_gtk_sample.csprojAssemblyReference.cache
+/Users/lilian/Documents/desktop-csharp-dev/cs_gtk_sample/cs_gtk_sample/obj/anycpu/Debug/cs_gtk_sample.csproj.CoreCompileInputs.cache
+/Users/lilian/Documents/desktop-csharp-dev/cs_gtk_sample/cs_gtk_sample/obj/anycpu/Debug/cs_gtk_sample.exe
+/Users/lilian/Documents/desktop-csharp-dev/cs_gtk_sample/cs_gtk_sample/obj/anycpu/Debug/cs_gtk_sample.pdb
+/Users/lilian/Documents/desktop-csharp-dev/cs_gtk_sample/cs_gtk_sample/bin/Debug/Image/mylittledog.jpg
